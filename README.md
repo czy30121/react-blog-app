@@ -2,16 +2,6 @@
 
 ## Writing own blogs made easier for everyone!
 
-<div align="center">
-  <img alt="Demo" src="./Extra/demo.gif" />
-</div>
-
-<br/>
-
-<center>
-
-</center>
-
 ## Built With
 
 This project was built using these technologies.
